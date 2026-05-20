@@ -1,0 +1,76 @@
+@import "tailwindcss";
+@import "katex/dist/katex.min.css";
+
+@theme {
+  --font-sans: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+.prose-lesson strong {
+  font-weight: 600;
+  color: var(--color-slate-900);
+}
+
+.prose-lesson code {
+  border-radius: 0.25rem;
+  background-color: var(--color-slate-100);
+  padding: 0.125rem 0.375rem;
+  font-size: 0.875em;
+}
+
+.prose-lesson .math-inline,
+.rich-text .math-inline,
+.rich-text .katex-wrap {
+  font-style: normal;
+}
+
+.rich-text .katex-wrap .katex {
+  font-size: 1.05em;
+  color: var(--color-teal-900);
+}
+
+.rich-text .katex-wrap {
+  display: inline;
+  margin: 0 0.1em;
+  vertical-align: baseline;
+}
+
+.rich-text strong .katex {
+  color: inherit;
+}
+
+.rich-text strong {
+  font-weight: 600;
+  color: var(--color-slate-900);
+}
+
+.rich-text code {
+  border-radius: 0.25rem;
+  background-color: var(--color-slate-100);
+  padding: 0.125rem 0.375rem;
+  font-size: 0.875em;
+}
+
+.rich-text em {
+  font-style: italic;
+}
+
+details summary {
+  list-style: none;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details[open] summary {
+  border-bottom: 1px solid var(--color-slate-200);
+}
