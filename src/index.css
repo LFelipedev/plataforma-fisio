@@ -3,6 +3,19 @@
 
 @theme {
   --font-sans: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+
+  /* Cor principal (#FF69B4) — paleta teal sobrescrita para manter as classes existentes */
+  --color-teal-50: #fff5fa;
+  --color-teal-100: #ffeaf3;
+  --color-teal-200: #ffd4e8;
+  --color-teal-300: #ffb8dc;
+  --color-teal-400: #ff8cc9;
+  --color-teal-500: #ff69b4;
+  --color-teal-600: #ed5aa3;
+  --color-teal-700: #d14a8f;
+  --color-teal-800: #b03b77;
+  --color-teal-900: #8f2f62;
+  --color-teal-950: #5c1d3f;
 }
 
 html {
