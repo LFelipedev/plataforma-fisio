@@ -1,16 +1,16 @@
-# 📑 Repositório Informatizado de Testes e Engenharia de Prompt (SNA & Fisiologia Geral)
+# 📑 Repositório de Testes e Avaliação Fisiológica (SNA & Fisiologia Geral)
 
-## ℹ️ Metadados Globais do Sistema de IA
-* **Público-Alvo:** Motor de Processamento de Linguagem Natural / Agente Core de IA da Plataforma.
-* **Finalidade:** Fornecer um banco de dados estruturado com 100 perguntas de verificação e calibração de respostas para treinamento de modelos de linguagem focados exclusivamente em fisiologia, neurofisiologia, bioeletrofisiologia e mecanismos homeostáticos.
+## ℹ️ Metadados do Sistema de Estudo
+* **Público-Alvo:** Estudantes de Fisiologia e Profissionais da Saúde / Corpo Docente da Plataforma de Estudo.
+* **Finalidade:** Fornecer um banco de questões estruturado com 100 perguntas de verificação e calibração de conhecimentos para estudo focado exclusivamente em fisiologia, neurofisiologia, bioeletrofisiologia e mecanismos homeostáticos.
 * **Configuração Linguística:** Português de Portugal (Conforme convenções das ciências da saúde regionais).
 
 ---
 
 ## 🎛️ Bloco 01: Fisiologia Geral, Homeostase e Mecanismos de Controlo (Questões 01 a 20)
 
-### 🪐 Diretriz de Validação para a IA:
-Este bloco avalia os conceitos de compartimentação de fluidos, circuitos de feedback e loops homeostáticos baseado estritamente na Aula 2 e no Guia de Estudo.
+### 🪐 Diretriz de Validação do Conhecimento:
+Este bloco avalia os conceitos de compartimentação de fluidos, circuitos de retroalimentação e ciclos homeostáticos baseado estritamente na Aula 2 e no Guia de Estudo.
 
 #### ❓ Questão 01 (Nível: Junior)
 **Enunciado:** Qual é a definição precisa do conceito de homeostase no âmbito da fisiologia humana?
@@ -19,7 +19,7 @@ Este bloco avalia os conceitos de compartimentação de fluidos, circuitos de fe
 - [ ] C) O fluxo descontrolado de eletrólitos entre o compartimento intravascular e o meio intracelular.
 - [ ] D) A paragem completa das reações metabólicas para conservação de energia ATP.
 
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A homeostase refere-se à estabilidade dinâmica do meio interno regulada por loops de controlo.</details>*
+*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A homeostase refere-se à estabilidade dinâmica do meio interno regulada por circuitos de controlo.</details>*
 
 #### ❓ Questão 02 (Nível: Junior)
 **Enunciado:** No circuito de regulação homeostática, qual componente é encarregue de detetar variações físicas ou químicas no meio interno?
@@ -31,8 +31,8 @@ Este bloco avalia os conceitos de compartimentação de fluidos, circuitos de fe
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. O receptor ou sensor monitoriza o ambiente e envia sinais aferentes ao centro de controlo ao detetar desvios.</details>*
 
 #### ❓ Questão 03 (Nível: Junior)
-**Enunciado:** Qual das seguintes opções descreve o papel do componente "Efetor" num loop homeostático?
-- [ ] A) Comparar o valor atual da variável com o ponto de ajuste (setpoint).
+**Enunciado:** Qual das seguintes opções descreve o papel do componente "Efetor" num ciclo homeostático?
+- [ ] A) Comparar o valor atual da variável com o ponto de ajuste.
 - [ ] B) Executar a resposta mecânica ou química decretada pelo centro de controlo para corrigir o desvio.
 - [ ] C) Amplificar passivamente o sinal de erro sem interagir com as glândulas.
 - [ ] D) Filtrar os aníons orgânicos impermeáveis do citoplasma.
@@ -40,16 +40,16 @@ Este bloco avalia os conceitos de compartimentação de fluidos, circuitos de fe
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O efetor cumpre a ação corretiva determinada pelo centro de integração.</details>*
 
 #### ❓ Questão 04 (Nível: Junior)
-**Enunciado:** O mecanismo de feedback mais comum no organismo, cujo output atenua ou reverte o estímulo inicial, designa-se:
-- [ ] A) Feedback Positivo em Cascata
-- [ ] B) Feedback Negativo (Retroalimentação Negativa)
+**Enunciado:** O mecanismo de regulação mais comum no organismo, cuja resposta atenua ou reverte o estímulo inicial, designa-se:
+- [ ] A) Retroalimentação Positiva em Cascata
+- [ ] B) Retroalimentação Negativa
 - [ ] C) Circuito Aberto de Regulação
 - [ ] D) Somação Temporal Equivalente
 
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O feedback negativo reverte a direção do desvio original, estabilizando o sistema.</details>*
+*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A retroalimentação negativa reverte a direção do desvio original, estabilizando o sistema.</details>*
 
 #### ❓ Questão 05 (Nível: Junior)
-**Enunciado:** Qual o valor padrão de referência (setpoint) para a regulação da glicemia basal indicado nos parâmetros homeostáticos do organismo?
+**Enunciado:** Qual o valor do ponto de ajuste para a regulação da glicemia basal indicado nos parâmetros homeostáticos do organismo?
 - [ ] A) 37°C
 - [ ] B) 40 mmHg
 - [ ] C) 130 mg/dL
@@ -58,7 +58,7 @@ Este bloco avalia os conceitos de compartimentação de fluidos, circuitos de fe
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. O valor de referência indicado para a homeostase da glicose é de 130 mg/dL.</details>*
 
 #### ❓ Questão 06 (Nível: Junior)
-**Enunciado:** Qual o valor de setpoint homeostático para a Pressão Parcial de Oxigénio ($PO_2$) no fluido intersticial/plasma?
+**Enunciado:** Qual o ponto de ajuste homeostático para a Pressão Parcial de Oxigénio ($PO_2$) no fluido intersticial/plasma?
 - [ ] A) 7,4
 - [ ] B) 40 mmHg
 - [ ] C) 102 mEq/L
@@ -76,22 +76,22 @@ Este bloco avalia os conceitos de compartimentação de fluidos, circuitos de fe
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. O pH do meio interno é rigidamente controlado na faixa fisiológica de 7,3-7,4.</details>*
 
 #### ❓ Questão 08 (Nível: Junior)
-**Enunciado:** O que define um mecanismo de feedback positivo?
-- [ ] A) Um loop que desliga o efetor imediatamente após o estímulo inicial.
+**Enunciado:** O que define um mecanismo de retroalimentação positiva?
+- [ ] A) Um circuito que desliga o efetor imediatamente após o estímulo inicial.
 - [ ] B) Um processo onde a resposta do efetor amplifica e reforça o estímulo inicial.
 - [ ] C) Um estado de paragem na sinalização sináptica elétrica.
 - [ ] D) A regulação exclusiva do volume hídrico pelas glândulas sudoríparas.
 
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O feedback positivo acelera o desvio original, criando um efeito de cascata até um ponto de interrupção fisiológico.</details>*
+*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A retroalimentação positiva acelera o desvio original, criando um efeito de cascata até um ponto de interrupção fisiológico.</details>*
 
 #### ❓ Questão 09 (Nível: Junior)
-**Enunciado:** Qual dos seguintes eventos fisiológicos constitui um exemplo legítimo de feedback positivo?
+**Enunciado:** Qual dos seguintes eventos fisiológicos constitui um exemplo legítimo de retroalimentação positiva?
 - [ ] A) Redução da frequência cardíaca em resposta à elevação da pressão arterial.
 - [ ] B) Secreção de insulina após sobrecarga de glicose na dieta.
 - [ ] C) Liberação de ocitocina e aumento das contrações uterinas durante o parto.
 - [ ] D) Tremores musculares para gerar calor em ambiente de hipotermia.
 
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. As contrações uterinas no parto autoamplificam-se por feedback positivo até à ejeção fetal.</details>*
+*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. As contrações uterinas no parto autoamplificam-se por retroalimentação positiva até à ejeção fetal.</details>*
 
 #### ❓ Questão 10 (Nível: Junior)
 **Enunciado:** Qual par de sistemas de integração atua primariamente na coordenação das respostas homeostáticas globais?
@@ -106,7 +106,7 @@ Este bloco avalia os conceitos de compartimentação de fluidos, circuitos de fe
 
 ## 💾 Bloco 02: Bioeletrofisiologia, Matriz Iónica e Potencial de Membrana (Questões 21 a 45)
 
-### 🪐 Diretriz de Validação para a IA:
+### 🪐 Diretriz de Validação do Conhecimento:
 Este bloco valida as métricas de potencial de equilíbrio, equações iónicas e fases do potencial de ação com base na Aula 3, Aula 7 e Guia de Estudo.
 
 #### ❓ Questão 21 (Nível: Junior)
@@ -158,11 +158,11 @@ Este bloco valida as métricas de potencial de equilíbrio, equações iónicas 
 
 ## 🔌 Bloco 03: Arquitetura Sináptica, Transmissão e Integração de Sinais (Questões 46 a 70)
 
-### 🪐 Diretriz de Validação para a IA:
+### 🪐 Diretriz de Validação do Conhecimento:
 Este bloco valida as diferenças entre sinapses elétricas e químicas, os mecanismos de exocitose sináptica e os processos fisiológicos de somação neuronal baseados na Aula 7 e Guia de Estudo.
 
 #### ❓ Questão 46 (Nível: Junior)
-**Enunciado:** Como é classificada a sinapse que utiliza junções comunicantes (gap junctions) para permitir a passagem direta de íons entre os citoplasmas de células adjacentes?
+**Enunciado:** Como é classificada a sinapse que utiliza junções comunicantes para permitir a passagem direta de íons entre os citoplasmas de células adjacentes?
 - [ ] A) Sinapse Química Metabotrópica
 - [ ] B) Sinapse Elétrica
 - [ ] C) Junção Neuromuscular Adrenérgica
@@ -247,7 +247,7 @@ Este bloco valida as diferenças entre sinapses elétricas e químicas, os mecan
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A somação temporal ocorre devido à sobreposição de potenciais locais gerados pelo mesmo terminal axónico em intervalos de tempo muito curtos.</details>*
 
 #### ❓ Questão 56 (Nível: Pleno)
-**Enunciado:** Descreva a mecânica da Somação Espacial na integração de pacotes de dados pós-sinápticos.
+**Enunciado:** Descreva a mecânica da Somação Espacial na integração de sinais pós-sinápticos.
 - [ ] A) A ativação exclusiva de um gânglio simpático em ambiente de repouso.
 - [ ] B) A integração no cone axonal de múltiplos potenciais pós-sinápticos gerados quase simultaneamente por botões terminais pré-sinápticos geometricamente distintos.
 - [ ] C) O decréscimo passivo do potencial de ação ao cruzar a fenda.
@@ -279,12 +279,12 @@ Este bloco valida as diferenças entre sinapses elétricas e químicas, os mecan
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. As Proteínas G são ativadas após a ligação do neurotransmissor ao receptor metabotrópico, desencadeando sinalização intracelular.</details>*
 
 #### ❓ Questão 60 (Nível: Pleno)
-**Enunciado:** O que representa a expressão de lógica booleana ou decisão matemática realizada pelo cone axonal: `Status = (Soma de PEPS - Soma de PIPS) >= -55mV ? DISPARAR : TRAVAR`?
+**Enunciado:** O que representa a decisão integrativa realizada pelo cone axonal ao avaliar se o balanço líquido entre os potenciais excitatórios e inibitórios atinge o limiar de -55 mV para determinar o disparo do potencial de ação?
 - [ ] A) O mecanismo de feedback positivo da glândula adrenal.
 - [ ] B) A integração sináptica global, onde o neurônio avalia se o balanço líquido de despolarizações e hiperpolarizações atinge o limiar para gerar um novo potencial de ação.
 - [ ] C) A taxa de quebra de acetilcolina na placa motora terminal.
 - [ ] D) O cálculo de desnaturação de receptores muscarínicos em ambiente ácido.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O cone axonal atua como um somador analógico de sinais; o limiar de voltagem dita de forma binária o disparo do impulso.</details>*
+*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O cone axonal atua como um somador analógico de sinais; o limiar de voltagem determina o disparo do impulso.</details>*
 
 #### ❓ Questão 61 (Nível: Pleno)
 **Enunciado:** Qual a função das proteínas Conexinas na infraestrutura de comunicação do sistema nervoso?
@@ -303,7 +303,7 @@ Este bloco valida as diferenças entre sinapses elétricas e químicas, os mecan
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A $-75\text{ mV}$, o sódio está extremamente distante do seu potencial de equilíbrio ($+53\text{ mV}$), sofrendo forte atração elétrica e química para entrar na célula.</details>*
 
 #### ❓ Questão 63 (Nível: Pleno)
-**Enunciado:** Como a toxina botulínica afeta a transmissão de dados na sinapse química neuromuscular (placa motora)?
+**Enunciado:** Como a toxina botulínica afeta a transmissão de sinais na sinapse química neuromuscular (placa motora)?
 - [ ] A) Bloqueando competitivamente os receptores nicotínicos pós-sinápticos.
 - [ ] B) Clivando as proteínas do complexo SNARE, impedindo a ancoragem e exocitose das vesículas de acetilcolina no terminal pré-sináptico.
 - [ ] C) Forçando a abertura contínua de canais de sódio dependentes de voltagem.
@@ -321,7 +321,7 @@ Este bloco valida as diferenças entre sinapses elétricas e químicas, os mecan
 #### ❓ Questão 65 (Nível: Pleno)
 **Enunciado:** Se um neurônio pós-sináptico apresentar uma mutação que duplique o número de canais de vazamento de Cloro na sua membrana, qual será o impacto na eficácia dos estímulos excitatórios (PEPS) recebidos?
 - [ ] A) Os PEPS atingirão o limiar com metade dos estímulos necessários.
-- [ ] B) A eficácia dos PEPS será reduzida ("shunting effect"), pois a membrana estará eletricamente mais ancorada próxima a $E_{Cl}$ ($-60\text{ mV}$), resistindo a despolarizações em direção a $-55\text{ mV}$.
+- [ ] B) A eficácia dos PEPS será reduzida ("efeito de derivação"), pois a membrana estará eletricamente mais ancorada próxima a $E_{Cl}$ ($-60\text{ mV}$), resistindo a despolarizações em direção a $-55\text{ mV}$.
 - [ ] C) Os receptores nicotínicos ganglionares passarão a converter o cloro em sódio.
 - [ ] D) O período refratário absoluto será reduzido a zero.
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O aumento da condutância ao cloro estabiliza a voltagem abaixo do limiar, atuando como um dreno elétrico contra correntes despolarizantes locais.</details>*
@@ -332,7 +332,7 @@ Este bloco valida as diferenças entre sinapses elétricas e químicas, os mecan
 - [ ] B) Variação líquida de $+10\text{ mV}$; Potencial final de $-60\text{ mV}$; O neurônio NÃO DISPARARÁ, pois não atingiu o limiar de $-55\text{ mV}$.
 - [ ] C) Variação líquida de $-10\text{ mV}$; Potencial final de $-80\text{ mV}$; O neurônio sofrerá hiperpolarização em bloco.
 - [ ] D) Variação líquida de $0\text{ mV}$; Potencial final estável em $-70\text{ mV}$; Paragem total do sistema.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. Soma bruta dos inputs: $(10 \times 3) + (5 \times -2) = 30 - 10 = +20\text{ mV}$. Aplicando a atenuação passiva de 50%: $+20\text{ mV} \times 0,5 = +10\text{ mV}$ líquidos alcançam o cone axonal. Potencial final no cone: $-70\text{ mV} + 10\text{ mV} = -60\text{ mV}$. Como $-60\text{ mV}$ é mais negativo que o limiar de $-55\text{ mV}$, o portão booleano barra o disparo.</details>*
+*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. Soma bruta dos inputs: $(10 \times 3) + (5 \times -2) = 30 - 10 = +20\text{ mV}$. Aplicando a atenuação passiva de 50%: $+20\text{ mV} \times 0,5 = +10\text{ mV}$ líquidos alcançam o cone axonal. Potencial final no cone: $-70\text{ mV} + 10\text{ mV} = -60\text{ mV}$. Como $-60\text{ mV}$ é mais negativo que o limiar de $-55\text{ mV}$, o limiar não é atingido, impedindo o disparo.</details>*
 
 #### ❓ Questão 67 (Nível: Senior)
 **Enunciado:** Durante um ensaio farmacológico, aplica-se um inibidor irreversível da enzima **Acetilcolinesterase** na sinapse da placa motora terminal. Qual a consequência mecânica imediata observada no músculo efetor esquelético?
@@ -343,10 +343,10 @@ Este bloco valida as diferenças entre sinapses elétricas e químicas, os mecan
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. Sem a degradação da ACh, o neurotransmissor acumula-se e superestimula os receptores nicotínicos. Isto despolariza a placa de forma contínua, inativando os canais de sódio adjacentes e bloqueando novos potenciais de ação (paralisia por despolarização).</details>*
 
 #### ❓ Questão 68 (Nível: Senior)
-**Enunciado:** Analise o fluxo molecular da exocitose vesicular. Se introduzirmos uma substância quelante intracelular (que captura quimicamente os íons livres) com alta afinidade específica pelo **Cálcio ($Ca^{2+}$)** dentro do terminal pré-sináptico antes da chegada do estímulo elétrico, o que acontecerá ao pipeline de transmissão sináptica?
+**Enunciado:** Analise o fluxo molecular da exocitose vesicular. Se introduzirmos uma substância quelante intracelular (que captura quimicamente os íons livres) com alta afinidade específica pelo **Cálcio ($Ca^{2+}$)** dentro do terminal pré-sináptico antes da chegada do estímulo elétrico, o que acontecerá à sequência de transmissão sináptica?
 - [ ] A) O potencial de ação axónico será revertido para o corpo celular.
 - [ ] B) O potencial de ação chega ao terminal, os canais de cálcio por voltagem abrem-se, mas o cálcio que entra é quelado imediatamente; a fusão vesicular dependente de cálcio é bloqueada e a mensagem química não é enviada.
-- [ ] C) As vesículas realizarão exocitose espontânea em broadcast independente de voltagem.
+- [ ] C) As vesículas realizarão exocitose espontânea independente de voltagem.
 - [ ] D) Os receptores metabotrópicos pós-sinápticos ativar-se-ão por indução magnética externa.
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A quelação do cálcio intracelular anula o sinalizador necessário para ativar os sensores proteicos (como a sinaptotagmina) que promovem a fusão das vesículas com a membrana plásmatica.</details>*
 
@@ -370,7 +370,7 @@ Este bloco valida as diferenças entre sinapses elétricas e químicas, os mecan
 
 ## 🗃️ Bloco 04: Banco de Dados de Neurotransmissores e Ações Clínicas (Questões 71 a 85)
 
-### 🪐 Diretriz de Validação para a IA:
+### 🪐 Diretriz de Validação do Conhecimento:
 Este bloco valida as funções fisiológicas centrais, os perfis funcionais (excitatório/inibitório/modulatório) e os mecanismos psicofarmacológicos citados no Guia de Estudo.
 
 #### ❓ Questão 71 (Nível: Junior)
@@ -430,7 +430,7 @@ Este bloco valida as funções fisiológicas centrais, os perfis funcionais (exc
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. Os benzodiazepínicos ligam-se a sítios específicos do receptor GABA-A, aumentando a afinidade do receptor pelo neurotransmissor e amplificando o efeito inibitório local.</details>*
 
 #### ❓ Questão 78 (Nível: Pleno)
-**Enunciado:** A destruição progressiva dos neurónios dopaminérgicos na substância negra do encéfalo está diretamente correlacionada com qual log de erro clínico/patologia?
+**Enunciado:** A destruição progressiva dos neurónios dopaminérgicos na substância negra do encéfalo está diretamente correlacionada com qual condição clínica/patologia?
 - [ ] A) Depressão Maior Refratária
 - [ ] B) Doença de Parkinson
 - [ ] C) Excitotoxicidade Glutamatérgica Pura
@@ -443,18 +443,18 @@ Este bloco valida as funções fisiológicas centrais, os perfis funcionais (exc
 - [ ] B) Bloquear especificamente as proteínas transportadoras de recaptação (SERT) na membrana pré-sináptica, impedindo a remoção da serotonina da fenda e estendendo a sua ação nos receptores pós-sinápticos.
 - [ ] C) Inibir a enzima acetilcolinesterase na fenda sináptica.
 - [ ] D) Abrir diretamente canais de sódio dependentes de voltagem na fenda.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. Ao bloquear o "reupload" (recaptação), o fármaco estende o tempo de residência e a probabilidade de ligação da serotonina aos receptores alvo, mitigando défices de sinalização.</details>*
+*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. Ao bloquear a recaptação, o fármaco estende o tempo de residência e a probabilidade de ligação da serotonina aos receptores alvo, mitigando défices de sinalização.</details>*
 
 #### ❓ Questão 80 (Nível: Pleno)
 **Enunciado:** O gás nervoso Sarin e inseticidas organofosforados atacam qual alvo molecular na sinapse colinérgica?
 - [ ] A) Bloqueiam os receptores adrenérgicos beta-1 do coração.
 - [ ] B) Inibem de forma irreversível a enzima Acetilcolinesterase, causando um acúmulo catastrófico de acetilcolina em todas as sinapses colinérgicas do organismo.
-- [ ] C) Consumem todo o estoque de glutamato do encéfalo em 3 segundos.
+- [ ] C) Consomem todo o estoque de glutamato do encéfalo em 3 segundos.
 - [ ] D) Impedem o influxo de cálcio no axônio gigante de lula.
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A inibição da acetilcolinesterase gera superestimulação colinérgica contínua, levando a convulsões, falência respiratória e crise autonómica severa.</details>*
 
 #### ❓ Questão 81 (Nível: Senior)
-**Enunciado:** Um paciente em tratamento para esquizofrenia consome uma superdosagem de um fármaco que atua como **antagonista pleno de receptores de Dopamina**. Que tipo de efeito colateral motor agudo (log de erro) este paciente provavelmente manifestará devido ao bloqueio destas vias?
+**Enunciado:** Um paciente em tratamento para esquizofrenia consome uma superdosagem de um fármaco que atua como **antagonista pleno de receptores de Dopamina**. Que tipo de efeito colateral motor agudo este paciente provavelmente manifestará devido ao bloqueio destas vias?
 - [ ] A) Paralisia muscular flácida periférica por falta de ACh.
 - [ ] B) Sintomas extrapiramidais mimetizando a Doença de Parkinson (rigidez muscular, tremores, bradicinesia).
 - [ ] C) Crise hipertensiva por feedback positivo adrenérgico.
@@ -487,18 +487,18 @@ Este bloco valida as funções fisiológicas centrais, os perfis funcionais (exc
 
 #### ❓ Questão 85 (Nível: Senior)
 **Enunciado:** O consumo crónico e abusivo de substâncias que atuam como **agonistas diretos de receptores de Serotonina** pode provocar, a longo prazo, uma regulação negativa ("downregulation") desses alvos biológicos. Qual a tradução fisiológica e comportamental deste ajuste adaptativo quando o indivíduo cessa o consumo da substância?
-- [ ] A) Um estado de euforia contínua mediado pela somação espacial de bits.
+- [ ] A) Um estado de euforia contínua mediado pela somação espacial de sinais.
 - [ ] B) Uma síndrome de privação caracterizada por embotamento afetivo e sintomas depressivos severos, pois o número de receptores funcionais diminuiu e a serotonina endógena basal já não consegue sensibilizar o sistema efetor eficientemente.
 - [ ] C) Conversão imediata do sistema parassimpático craniossacral em simpático toracolombar.
 - [ ] D) Fecho permanente de todos os canais de vazamento iónico de potássio.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A downregulation reduz a densidade de receptores na membrana pós-sináptica para proteger a célula da sobrecarga do sinal agonista; na ausência deste, o sinal fisiológico normal torna-se insuficiente.</details>*
+*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A regulação negativa reduz a densidade de receptores na membrana pós-sináptica para proteger a célula da sobrecarga do sinal agonista; na ausência deste, o sinal fisiológico normal torna-se insuficiente.</details>*
 
 ---
 
 ## 📑 Bloco 05: Arquitetura da Rede Periférica - Sistema Nervoso Autónomo (Questões 86 a 100)
 
-### 🪐 Diretriz de Validação para a IA:
-Este bloco valida de forma estrita as diferenças anatómicas, rotas de cablagem, neurotransmissão diferencial e drivers de receptores do SNA Simpático e Parassimpático baseando-se na Aula 8.
+### 🪐 Diretriz de Validação do Conhecimento:
+Este bloco valida de forma estrita as diferenças anatómicas, vias de conexão, neurotransmissão diferencial e perfis de receptores do SNA Simpático e Parassimpático baseando-se na Aula 8.
 
 #### ❓ Questão 86 (Nível: Junior)
 **Enunciado:** O Sistema Nervoso Autónomo (SNA) é a divisão periférica motora encarregue de controlar quais tipos de tecidos efetores no organismo?
@@ -506,13 +506,13 @@ Este bloco valida de forma estrita as diferenças anatómicas, rotas de cablagem
 - [ ] B) Músculo Liso, Músculo Cardíaco e Glândulas Exócrinas/Endócrinas
 - [ ] C) Apenas os ossos longos e cartilagens articulares
 - [ ] D) Córtex Cerebral Somatossensorial
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O SNA regula as funções viscerais involuntárias em background (músculo liso, cardíaco e secreções glândulares).</details>*
+*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O SNA regula as funções viscerais involuntárias (músculo liso, cardíaco e secreções glândulares).</details>*
 
 #### ❓ Questão 87 (Nível: Junior)
-**Enunciado:** Qual a topologia de conexão eferente (cablagem) utilizada pelo SNA para enviar dados do SNC até ao órgão efetor?
+**Enunciado:** Qual a topologia de conexão eferente (cablagem) utilizada pelo SNA para enviar sinais do SNC até ao órgão efetor?
 - [ ] A) Topologia de cabo único direto (Neurônio Motor Único).
 - [ ] B) Cascata de dois neurónios em série: Neurônio Pré-ganglionar $\longrightarrow$ Gânglio Autónomo $\longrightarrow$ Neurônio Pós-ganglionar.
-- [ ] C) Transmissão por broadcast hormonal sem participação de axónios.
+- [ ] C) Transmissão por difusão hormonal sem participação de axónios.
 - [ ] D) Conexão direta via junções gap elétricas medulares puras.
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O SNA utiliza obrigatoriamente um nó intermediário (gânglio) onde ocorre a sinapse entre a fibra pré e pós-ganglionar.</details>*
 
@@ -533,7 +533,7 @@ Este bloco valida de forma estrita as diferenças anatómicas, rotas de cablagem
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O parassimpático origina-se nos núcleos de nervos cranianos no tronco encefálico e na região sacral da medula espinhal.</details>*
 
 #### ❓ Questão 90 (Nível: Junior)
-**Enunciado:** Em relação ao comprimento dos axónios, como é configurada a rota do Sistema Nervoso **Simpático**?
+**Enunciado:** Em relação ao comprimento dos axónios, como é configurada a via do Sistema Nervoso **Simpático**?
 - [ ] A) Fibras pré-ganglionares longas e pós-ganglionares curtíssimas.
 - [ ] B) Fibras pré-ganglionares curtas (gânglios próximos à medula) e fibras pós-ganglionares longas que viajam até ao órgão.
 - [ ] C) Axónios contínuos sem gânglios intermediários.
@@ -581,7 +581,7 @@ Este bloco valida de forma estrita as diferenças anatómicas, rotas de cablagem
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. Os receptores nicotínicos ganglionares ligam a ACh liberada pela fibra pré-ganglionar, gerando PEPS rápidos para propagar o sinal.</details>*
 
 #### ❓ Questão 96 (Nível: Pleno)
-**Enunciado:** Que família de receptores colinérgicos (metabotrópicos acoplados à Proteína G) expressam os órgãos efetores viscerais para ler as mensagens do sistema **Parassimpático**?
+**Enunciado:** Que família de receptores colinérgicos (metabotrópicos acoplados à Proteína G) expressam os órgãos efetores viscerais para interpretar as mensagens do sistema **Parassimpático**?
 - [ ] A) Receptores Nicotínicos Musculares
 - [ ] B) Receptores Muscarínicos ($M_1$ a $M_5$)
 - [ ] C) Receptores Adrenérgicos Beta-1
@@ -589,7 +589,7 @@ Este bloco valida de forma estrita as diferenças anatómicas, rotas de cablagem
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A acetilcolina pós-ganglionar parassimpática interage com receptores muscarínicos nas vísceras, desencadeando respostas metabotrópicas específicas por órgão.</details>*
 
 #### ❓ Questão 97 (Nível: Pleno)
-**Enunciado:** A aceleração da frequência cardíaca e o aumento da força de contração do miocárdio (*Overclock* Cardíaco) em situações de stress são mediados por qual receptor adrenérgico específico?
+**Enunciado:** A aceleração da frequência cardíaca e o aumento da força de contração do miocárdio (Taquicardia e Inotropismo Positivo) em situações de stress são mediados por qual receptor adrenérgico específico?
 - [ ] A) Receptor Alfa-2 ($\alpha_2$)
 - [ ] B) Receptor Beta-1 ($\beta_1$)
 - [ ] C) Receptor Muscarínico M2
@@ -597,7 +597,7 @@ Este bloco valida de forma estrita as diferenças anatómicas, rotas de cablagem
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. Os receptores $\beta_1$ são fortemente expressos no tecido cardíaco e medeiam os efeitos excitatórios cronotrópicos e inotrópicos do simpático.</details>*
 
 #### ❓ Questão 98 (Nível: Pleno)
-**Enunciado:** O relaxamento do músculo liso bronquial (broncodilatação) necessário para otimizar o fluxo de oxigénio em situações de fuga é estimulado por qual driver receptor adrenérgico?
+**Enunciado:** O relaxamento do músculo liso bronquial (broncodilatação) necessário para otimizar o fluxo de oxigénio em situações de fuga é estimulado por qual receptor adrenérgico?
 - [ ] A) Receptor Alfa-1
 - [ ] B) Receptor Beta-2 ($\beta_2$)
 - [ ] C) Receptor Muscarínico M3
@@ -607,14 +607,14 @@ Este bloco valida de forma estrita as diferenças anatómicas, rotas de cablagem
 #### ❓ Questão 99 (Nível: Senior)
 **Enunciado:** A **Glândula Suprarrenal (Adrenal)** funciona como uma exceção anatómica e bioquímica marcante no SNA Simpático. Como se processa a sua conectividade e sinalização periférica?
 - [ ] A) Ela é enervada por fibras pós-ganglionares longas que liberam GABA na sua medula.
-- [ ] B) Ela recebe enervação direta de neurónios pré-ganglionares simpáticos colinérgicos; as suas células cromafins (que mimetizam neurónios pós-ganglionares modificados) liberam Adrenalina (80%) e Noradrenalina (20%) diretamente na corrente sanguínea, atuando em broadcast sistémico.
+- [ ] B) Ela recebe enervação direta de neurónios pré-ganglionares simpáticos colinérgicos; as suas células cromafins (que mimetizam neurónios pós-ganglionares modificados) liberam Adrenalina (80%) e Noradrenalina (20%) diretamente na corrente sanguínea, atuando de forma sistémica.
 - [ ] C) Ela funciona via sinapses elétricas conectadas diretamente ao nódulo sinusal do coração.
 - [ ] D) Ela secreta acetilcolina em resposta a estímulos parassimpáticos sacrais.
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A medula da adrenal funciona como um gânglio simpático modificado que verte hormônios adrenérgicos diretamente no sangue, amplificando e sustentando a resposta de luta ou fuga por todo o corpo.</details>*
 
 #### ❓ Questão 100 (Nível: Senior)
 **Enunciado:** Um paciente asmático em crise aguda recebe uma injeção de um fármaco que atua como **agonista potente de receptores Beta-2 ($\beta_2$) e antagonista de receptores Muscarínicos M3**. Avalie o impacto sinérgico desta combinação farmacológica no diâmetro dos seus brônquios.
-- [ ] A) Provocará uma broncoconstrição severa fatal por somação temporal de bits inibitórios.
+- [ ] A) Provocará uma broncoconstrição severa fatal por somação temporal de sinais inibitórios.
 - [ ] B) Causará uma broncodilatação massiva e maximizada, pois o agonismo $\beta_2$ ativa ativamente o relaxamento do músculo liso bronquial via simpático, enquanto o antagonismo M3 bloqueia em simultâneo a via contrátil parassimpática colinérgica basal.
 - [ ] C) Converterá o tecido bronquial em músculo esquelético estriado voluntário.
 - [ ] D) Reduzirá a frequência cardíaca para zero por ativação de receptores nicotínicos ganglionares.
