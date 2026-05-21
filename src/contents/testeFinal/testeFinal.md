@@ -2,14 +2,14 @@
 
 ## ℹ️ Metadados Globais do Sistema de IA
 * **Público-Alvo:** Motor de Processamento de Linguagem Natural / Agente Core de IA da Plataforma.
-* **Finalidade:** Fornecer um banco de dados estruturado com 100 perguntas de verificação e calibração de respostas para treinamento de modelos de linguagem e pipelines de avaliação automática (RAG/Fine-Tuning).
+* **Finalidade:** Fornecer um banco de dados estruturado com 100 perguntas de verificação e calibração de respostas para treinamento de modelos de linguagem focados exclusivamente em fisiologia, neurofisiologia, bioeletrofisiologia e mecanismos homeostáticos.
 * **Configuração Linguística:** Português de Portugal (Conforme convenções das ciências da saúde regionais).
 
 ---
 
 ## 🎛️ Bloco 01: Fisiologia Geral, Homeostase e Mecanismos de Controlo (Questões 01 a 20)
 
-### 🪐 Diretriz de Validação para a IA: 
+### 🪐 Diretriz de Validação para a IA:
 Este bloco avalia os conceitos de compartimentação de fluidos, circuitos de feedback e loops homeostáticos baseado estritamente na Aula 2 e no Guia de Estudo.
 
 #### ❓ Questão 01 (Nível: Junior)
@@ -18,6 +18,7 @@ Este bloco avalia os conceitos de compartimentação de fluidos, circuitos de fe
 - [ ] B) A capacidade do organismo de manter um ambiente interno dinamicamente estável em resposta a variações externas.
 - [ ] C) O fluxo descontrolado de eletrólitos entre o compartimento intravascular e o meio intracelular.
 - [ ] D) A paragem completa das reações metabólicas para conservação de energia ATP.
+
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A homeostase refere-se à estabilidade dinâmica do meio interno regulada por loops de controlo.</details>*
 
 #### ❓ Questão 02 (Nível: Junior)
@@ -26,6 +27,7 @@ Este bloco avalia os conceitos de compartimentação de fluidos, circuitos de fe
 - [ ] B) O Centro de Integração
 - [ ] C) O Receptor (ou Sensor)
 - [ ] D) O Canal de Vazamento
+
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. O receptor ou sensor monitoriza o ambiente e envia sinais aferentes ao centro de controlo ao detetar desvios.</details>*
 
 #### ❓ Questão 03 (Nível: Junior)
@@ -34,22 +36,25 @@ Este bloco avalia os conceitos de compartimentação de fluidos, circuitos de fe
 - [ ] B) Executar a resposta mecânica ou química decretada pelo centro de controlo para corrigir o desvio.
 - [ ] C) Amplificar passivamente o sinal de erro sem interagir com as glândulas.
 - [ ] D) Filtrar os aníons orgânicos impermeáveis do citoplasma.
+
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O efetor cumpre a ação corretiva determinada pelo centro de integração.</details>*
 
 #### ❓ Questão 04 (Nível: Junior)
 **Enunciado:** O mecanismo de feedback mais comum no organismo, cujo output atenua ou reverte o estímulo inicial, designa-se:
-- [ ] A) Feedback Positivo Cascata
+- [ ] A) Feedback Positivo em Cascata
 - [ ] B) Feedback Negativo (Retroalimentação Negativa)
-- [ ] C) Loop Aberto de Alimentação
+- [ ] C) Circuito Aberto de Regulação
 - [ ] D) Somação Temporal Equivalente
+
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O feedback negativo reverte a direção do desvio original, estabilizando o sistema.</details>*
 
 #### ❓ Questão 05 (Nível: Junior)
-**Enunciado:** Qual o valor padrão de referência (setpoint) para a regulação da glicemia basal indicado nos logs homeostáticos do sistema?
+**Enunciado:** Qual o valor padrão de referência (setpoint) para a regulação da glicemia basal indicado nos parâmetros homeostáticos do organismo?
 - [ ] A) 37°C
 - [ ] B) 40 mmHg
 - [ ] C) 130 mg/dL
 - [ ] D) 290 mOsm/L
+
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. O valor de referência indicado para a homeostase da glicose é de 130 mg/dL.</details>*
 
 #### ❓ Questão 06 (Nível: Junior)
@@ -58,6 +63,7 @@ Este bloco avalia os conceitos de compartimentação de fluidos, circuitos de fe
 - [ ] B) 40 mmHg
 - [ ] C) 102 mEq/L
 - [ ] D) 120 mM
+
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A homeostase do oxigénio mantém a $PO_2$ num valor de referência de 40 mmHg.</details>*
 
 #### ❓ Questão 07 (Nível: Junior)
@@ -66,6 +72,7 @@ Este bloco avalia os conceitos de compartimentação de fluidos, circuitos de fe
 - [ ] B) 6,0 a 6,5
 - [ ] C) 7,3 a 7,4 (ou 7,35 a 7,45)
 - [ ] D) 8,5 a 9,0
+
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. O pH do meio interno é rigidamente controlado na faixa fisiológica de 7,3-7,4.</details>*
 
 #### ❓ Questão 08 (Nível: Junior)
@@ -74,7 +81,8 @@ Este bloco avalia os conceitos de compartimentação de fluidos, circuitos de fe
 - [ ] B) Um processo onde a resposta do efetor amplifica e reforça o estímulo inicial.
 - [ ] C) Um estado de paragem na sinalização sináptica elétrica.
 - [ ] D) A regulação exclusiva do volume hídrico pelas glândulas sudoríparas.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O feedback positivo acelera o desvio original, criando um efeito de cascata até um break-point.</details>*
+
+*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O feedback positivo acelera o desvio original, criando um efeito de cascata até um ponto de interrupção fisiológico.</details>*
 
 #### ❓ Questão 09 (Nível: Junior)
 **Enunciado:** Qual dos seguintes eventos fisiológicos constitui um exemplo legítimo de feedback positivo?
@@ -82,95 +90,17 @@ Este bloco avalia os conceitos de compartimentação de fluidos, circuitos de fe
 - [ ] B) Secreção de insulina após sobrecarga de glicose na dieta.
 - [ ] C) Liberação de ocitocina e aumento das contrações uterinas durante o parto.
 - [ ] D) Tremores musculares para gerar calor em ambiente de hipotermia.
+
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. As contrações uterinas no parto autoamplificam-se por feedback positivo até à ejeção fetal.</details>*
 
 #### ❓ Questão 10 (Nível: Junior)
 **Enunciado:** Qual par de sistemas de integração atua primariamente na coordenação das respostas homeostáticas globais?
 - [ ] A) Sistema Tegumentar e Sistema Linfático
 - [ ] B) Sistema Nervoso e Sistema Endócrino
-- [ ] C) Sistema Excretor e Sistema Muscular Puro
+- [ ] C) Sistema Excretor e Sistema Muscular
 - [ ] D) Sistema Ósseo e Sistema Reprodutor
+
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. Os sistemas nervoso (sinalização rápida) e endócrino (sinalização hormonal lenta) são os grandes controladores homeostáticos.</details>*
-
-#### ❓ Questão 11 (Nível: Pleno)
-**Enunciado:** Se o sistema de termorregulação falhar e permitir um aumento progressivo da temperatura corporal sem atuação de feedback negativo, o que pode ocorrer com as proteínas funcionais celulares?
-- [ ] A) Aumento da taxa de tradução de aníons orgânicos.
-- [ ] B) Desnaturação estrutural e falência enzimática generalizada.
-- [ ] C) Conversão imediata de receptores muscarínicos em nicotínicos.
-- [ ] D) Hiperpolarização espontânea do potencial de repouso para $-85\text{ mV}$.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. Temperaturas elevadas fora do setpoint quebram as ligações de hidrogénio, desnaturando enzimas e proteínas funcionais.</details>*
-
-#### ❓ Questão 12 (Nível: Pleno)
-**Enunciado:** Como o pâncreas responde de forma homeostática a uma subida súbita da glicemia plasmática acima de 130 mg/dL?
-- [ ] A) Interrompendo a atividade da bomba Na+/K+ ATPase.
-- [ ] B) Secretando glucagon para converter o glicogénio em glicose livre.
-- [ ] C) Secretando insulina para promover a captação e armazenamento de glicose pelas células e fígado.
-- [ ] D) Estimulando a liberação sistémica de noradrenalina por broadcast.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. A insulina atua como o efetor humoral do feedback negativo para reduzir os níveis elevados de glicose no plasma.</details>*
-
-#### ❓ Questão 13 (Nível: Pleno)
-**Enunciado:** O que diferencia o fluido intracelular (LIC) do fluido extracelular (LEC) em termos de volumes de água e composição no organismo?
-- [ ] A) O LIC possui volumes menores de água total que o LEC.
-- [ ] B) O LIC apresenta elevadas concentrações de Sódio e o LEC elevadas de Potássio.
-- [ ] C) O LIC retém os aníons orgânicos impermeáveis e possui alta concentração de Potássio; o LEC é rico em Sódio e Cloro.
-- [ ] D) Ambos os compartimentos são idênticos em todas as concentrações iónicas em repouso.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. A barreira da membrana celular mantém a assimetria iónica entre o LIC (rico em K+ e aníons estáveis) e o LEC (rico em Na+ e Cl-).</details>*
-
-#### ❓ Questão 14 (Nível: Pleno)
-**Enunciado:** Uma falha mecânica ou patológica que impeça a cascata de coagulação do sangue após uma rutura vascular rompe qual tipo de feedback?
-- [ ] A) Feedback Negativo de Pressão
-- [ ] B) Feedback Positivo de Amplificação de Plaquetas
-- [ ] C) Somação Espacial de Estímulos Iónicos
-- [ ] D) Circuito Aberto de Degradação de Noradrenalina
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A formação do tampão de coagulação utiliza um loop de feedback positivo para recrutar plaquetas rapidamente.</details>*
-
-#### ❓ Questão 15 (Nível: Pleno)
-**Enunciado:** No controlo homeostático da osmolaridade, que valor médio em miliosmóis por litro (mOsm/L) o organismo tenta sustentar no meio interno?
-- [ ] A) 40 mOsm/L
-- [ ] B) 130 mOsm/L
-- [ ] C) 290 mOsm/L
-- [ ] D) 7,4 mOsm/L
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. A osmolaridade padrão está regulada em torno de 290 a 300 mOsm/L para evitar fluxos osmóticos destrutivos entre LIC e LEC.</details>*
-
-#### ❓ Questão 16 (Nível: Pleno)
-**Enunciado:** O conceito de "propriedade emergente" nos níveis de organização da fisiologia dita que:
-- [ ] A) Cada nível inferior é mais complexo e independente que o nível superior.
-- [ ] B) Novas funções surgem num nível de organização superior que não podiam ser previstas pelo estudo isolado dos componentes do nível inferior.
-- [ ] C) As propriedades macroscópicas do organismo derivam unicamente do movimento mecânico de átomos livres.
-- [ ] D) A homeostase só se manifesta ao nível atómico isolado.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. As propriedades emergentes resultam das interações funcionais dos elementos integrados em níveis superiores.</details>*
-
-#### ❓ Questão 17 (Nível: Senior)
-**Enunciado:** Imagine um cenário onde uma mutação genética desative os sensores de detecção de $CO_2$ e $H^+$ no sistema nervoso central. Qual seria o impacto imediato na homeostase do pH sanguíneo perante um exercício físico intenso?
-- [ ] A) O sistema ativaria o feedback positivo aumentando a ventilação alveolar espontaneamente.
-- [ ] B) O centro de integração falharia em notar o desvio do pH, impedindo o disparo de ordens para os músculos respiratórios (efetores), resultando em acidose severa descompensada.
-- [ ] C) O rim reverteria a permeabilidade ao potássio para compensar o erro em 10 milissegundos.
-- [ ] D) Os receptores nicotínicos musculares passariam a captar aníons $A^-$ livres.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. Sem o sensor/receptor funcional, o circuito homeostático é quebrado; o desvio da variável não é processado e o efetor permanece inativo.</details>*
-
-#### ❓ Questão 18 (Nível: Senior)
-**Enunciado:** Um indivíduo consome uma substância tóxica que mimetiza um sinal e força o centro de controlo de temperatura a redefinir o ponto de ajuste (*setpoint*) basal de 37°C para 39°C. Como o organismo interpretará a temperatura corporal atual de 37°C e qual será a resposta imediata dos efetores?
-- [ ] A) Interpretará como hipertermia e ligará as glândulas sudoríparas.
-- [ ] B) Interpretará como hipotermia relativa (erro negativo) e ativará tremores musculares e vasoconstrição para elevar a temperatura até ao novo setpoint.
-- [ ] C) Bloqueará os canais de vazamento de cloro pós-sinápticos.
-- [ ] D) Cessará toda a sinalização química simpática e parassimpática.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. Se o setpoint sobe, a temperatura atual de 37°C é lida como "frio" pelo comparador do centro de integração, acionando mecanismos de ganho de calor.</details>*
-
-#### ❓ Questão 19 (Nível: Senior)
-**Enunciado:** Analise o loop de feedback positivo envolvido no disparo de um potencial de ação neuronal. Qual é o evento físico exógeno que atua como o *break-point* essencial para travar este loop destrutivo e iniciar a recuperação do sistema?
-- [ ] A) O fecho imediato de todos os canais de vazamento de potássio.
-- [ ] B) A exocitose massiva de vesículas de glutamato na fenda sináptica.
-- [ ] C) A inativação automática dos canais de sódio dependentes de voltagem (comporta de inativação) e a abertura mais lenta de canais de potássio dependentes de voltagem.
-- [ ] D) A ativação retrógrada de receptores adrenérgicos Alfa-2.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. O loop de feedback positivo do sódio é quebrado pela comporta de inativação tempo-dependente dos próprios canais de $Na^+$, limitando o pico do potencial de ação.</details>*
-
-#### ❓ Questão 20 (Nível: Senior)
-**Enunciado:** Em condições de desidratação osmótica extrema do meio extracelular (LEC), a água desloca-se do fluido intracelular (LIC) para o LEC por osmose. Para reverter este desvio e preservar o volume celular, que tipo de resposta integrada o sistema nervoso central gera?
-- [ ] A) Desliga o script da bomba Na+/K+ ATPase para igualar os potenciais.
-- [ ] B) Ativa a sensação comportamental de sede (induzindo ingestão de água) e ordena a retenção de fluidos via sinalização endócrina nos rins (efetores).
-- [ ] C) Induz a exocitose galopante de acetilcolina em todas as junções neuromusculares.
-- [ ] D) Expulsa os aníons impermeáveis orgânicos através da membrana plasmática.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O sistema nervoso central integra respostas comportamentais (sede) e autonómicas/endócrinas (retenção renal) para corrigir desvios na osmolaridade do LEC por feedback negativo.</details>*
 
 ---
 
@@ -185,14 +115,16 @@ Este bloco valida as métricas de potencial de equilíbrio, equações iónicas 
 - [ ] B) $-55\text{ mV}$
 - [ ] C) $-75\text{ mV}$ (ou $-70\text{ mV}$)
 - [ ] D) $0\text{ mV}$
+
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. O potencial elétrico em repouso varia em torno de $-70\text{ mV}$ a $-75\text{ mV}$.</details>*
 
 #### ❓ Questão 22 (Nível: Junior)
-**Enunciado:** Qual o potencial de equilíbrio eletroquímico calculado pela equação de Nernst para o íon Potássio ($K^+$) nas condições citadas no dataset core?
+**Enunciado:** Qual o potencial de equilíbrio eletroquímico calculado pela equação de Nernst para o íon Potássio ($K^+$) nas condições fisiológicas citadas?
 - [ ] A) $+53\text{ mV}$
 - [ ] B) $-85\text{ mV}$
 - [ ] C) $-60\text{ mV}$
 - [ ] D) $-55\text{ mV}$
+
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O potencial de equilíbrio do $K^+$ ($E_K$) é de $-85\text{ mV}$.</details>*
 
 #### ❓ Questão 23 (Nível: Junior)
@@ -201,6 +133,7 @@ Este bloco valida as métricas de potencial de equilíbrio, equações iónicas 
 - [ ] B) $-75\text{ mV}$
 - [ ] C) $+53\text{ mV}$
 - [ ] D) $+120\text{ mV}$
+
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. O potencial de equilíbrio do $Na^+$ ($E_{Na}$) é estável em $+53\text{ mV}$.</details>*
 
 #### ❓ Questão 24 (Nível: Junior)
@@ -209,182 +142,24 @@ Este bloco valida as métricas de potencial de equilíbrio, equações iónicas 
 - [ ] B) $+53\text{ mV}$
 - [ ] C) $0\text{ mV}$
 - [ ] D) $-85\text{ mV}$
+
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>A</b>. O potencial de equilíbrio do Cloro ($E_{Cl}$) situa-se em $-60\text{ mV}$.</details>*
 
 #### ❓ Questão 25 (Nível: Junior)
 **Enunciado:** Que tipo de canal iónico é o principal responsável pela determinação do potencial de repouso da membrana devido à sua alta taxa de abertura espontânea?
 - [ ] A) Canal de Cálcio dependente de voltagem
 - [ ] B) Canais de vazamento de Potássio ($K^+$)
-- [ ] C) Receptores Nicotínicos ionotrópicos puros
+- [ ] C) Receptores Nicotínicos ionotrópicos
 - [ ] D) Canais de Sódio dependentes de voltagem bloqueados
+
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. Os canais de vazamento de $K^+$ conferem à membrana em repouso uma alta permeabilidade relativa a este íon.</details>*
-
-#### ❓ Questão 26 (Nível: Junior)
-**Enunciado:** Que nome recebe o valor crítico de voltagem ($\approx -55\text{ mV}$) necessário para desencadear a abertura massiva de canais iónicos de sódio e disparar um potencial de ação?
-- [ ] A) Potencial de Repouso Absoluto
-- [ ] B) Período Refratário Relativo
-- [ ] C) Potencial Limiar (ou Limiar de Excitação)
-- [ ] D) Pico de Overshoot
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. O limiar de excitação ($\approx -55\text{ mV}$) determina o ponto de inversão rápida de polaridade da membrana.</details>*
-
-#### ❓ Questão 27 (Nível: Junior)
-**Enunciado:** A fase inicial do potencial de ação, caracterizada pela inversão rápida do potencial de membrana de negativo para positivo, chama-se:
-- [ ] A) Repolarização
-- [ ] B) Hiperpolarização Tardia
-- [ ] C) Despolarização
-- [ ] D) Período Refratário
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. A despolarização consiste na perda e subsequente inversão da negatividade interna da célula.</details>*
-
-#### ❓ Questão 28 (Nível: Junior)
-**Enunciado:** Que íon se desloca massivamente para o interior do axônio durante a fase de despolarização acelerada?
-- [ ] A) Potássio ($K^+$)
-- [ ] B) Cloro ($Cl^-$)
-- [ ] C) Sódio ($Na^+$)
-- [ ] D) Magnésio ($Mg^{2+}$)
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. O influxo abrupto de sódio através de canais dependentes de voltagem gera a despolarização.</details>*
-
-#### ❓ Questão 29 (Nível: Junior)
-**Enunciado:** A fase em que o potencial de membrana retorna em direção aos valores negativos de repouso após atingir o pico positivo é denominada:
-- [ ] A) Despolarização Inicial
-- [ ] B) Repolarização
-- [ ] C) Somação Espacial
-- [ ] D) Conexão Gap
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A repolarização restaura a carga elétrica negativa interna da membrana celular.</details>*
-
-#### ❓ Questão 30 (Nível: Junior)
-**Enunciado:** Qual movimento iónico causa diretamente a fase de repolarização da membrana?
-- [ ] A) Influxo massivo de Sódio
-- [ ] B) Efluxo (Saída) de Potássio através de canais dependentes de voltagem tardios
-- [ ] C) Aprisionamento de Aníons impermeáveis no LEC
-- [ ] D) Entrada de Cálcio pelas junções gap
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A saída de íons $K^+$ remove cargas positivas do interior celular, repolarizando a membrana.</details>*
-
-#### ❓ Questão 31 (Nível: Pleno)
-**Enunciado:** Por que razão ocorre a fase de hiperpolarização tardia (pós-hiperpolarização), onde o potencial fica temporariamente mais negativo do que o repouso padrão (ex: $-80\text{ mV}$)?
-- [ ] A) Porque os canais de sódio reabrem subitamente.
-- [ ] B) Porque os canais de potássio dependentes de voltagem demoram a fechar, mantendo a permeabilidade ao $K^+$ anormalmente elevada e arrastando a voltagem em direção a $E_K$ ($-85\text{ mV}$).
-- [ ] C) Devido ao esvaziamento completo das vesículas sinápticas.
-- [ ] D) Por causa da entrada desenfreada de aníons impermeáveis orgânicos.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O atraso no fecho dos canais de potássio dependentes de voltagem aproxima temporariamente a voltagem da membrana ao potencial de equilíbrio do potássio.</details>*
-
-#### ❓ Questão 32 (Nível: Pleno)
-**Enunciado:** Qual o papel crucial da bomba de sódio e potássio ($Na^+/K^+$ ATPase) na manutenção da integridade funcional a longo prazo dos neurónios?
-- [ ] A) Disparar o potencial de ação a cada 1 milissegundo.
-- [ ] B) Restaurar e manter ativamente os gradientes químicos de concentração de sódio e potássio consumidos durante os potenciais de ação.
-- [ ] C) Atuar como receptor ionotrópico para o neurotransmissor GABA.
-- [ ] D) Transportar vesículas sinápticas por fluxo axonal retrógrado.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A bomba utiliza energia ATP para expelir 3 $Na^+$ e internalizar 2 $K^+$, assegurando que os gradientes de concentração não se esgotem.</details>*
-
-#### ❓ Questão 33 (Nível: Pleno)
-**Enunciado:** O que caracteriza o Período Refratário Absoluto (PRA) do axônio?
-- [ ] A) Intervalo onde um estímulo duplo pode gerar um potencial de ação gigante.
-- [ ] B) Janela de tempo durante a qual é biologicamente impossível disparar um segundo potencial de ação, independentemente da força do estímulo, devido à inativação dos canais de $Na^+$.
-- [ ] C) Fase em que apenas receptores muscarínicos controlam a membrana.
-- [ ] D) Período de vazamento maciço de íons Cloro para o LIC.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. Com os canais de sódio inativados (comporta de inativação fechada), a membrana perde temporariamente a capacidade de responder a novos estímulos.</details>*
-
-#### ❓ Questão 34 (Nível: Pleno)
-**Enunciado:** Como se define o Período Refratário Relativo (PRR)?
-- [ ] A) Fase em que o neurônio dispara sem necessidade de atingir o limiar de $-55\text{ mV}$.
-- [ ] B) Intervalo onde um segundo potencial de ação pode ser gerado, mas exige um estímulo de intensidade muito superior ao normal, pois a célula está hiperpolarizada.
-- [ ] C) O tempo que a acetilcolina leva para cruzar a fenda sináptica.
-- [ ] D) O bloqueio mecânico exercido pelos oligodendrócitos no axônio.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. No PRR, alguns canais de sódio já recuperaram do estado inativo, mas a condutância ao potássio ainda está alta, exigindo maior corrente despolarizante para atingir o limiar.</details>*
-
-#### ❓ Questão 35 (Nível: Pleno)
-**Enunciado:** O que são os "Aníons Impermeáveis ($A^-$)" e qual o seu impacto na bioeletrofisiologia celular?
-- [ ] A) Íons de cloro exógenos que entram via canais iónicos rápidos.
-- [ ] B) Moléculas orgânicas complexas carregadas negativamente (proteínas, fosfatos) retidas no interior da célula, que contribuem para a negatividade interna do LIC em repouso.
-- [ ] C) Neurotransmissores gasosos que atravessam livremente a bicamada lipídica.
-- [ ] D) Bloqueadores alostéricos dos receptores adrenérgicos beta-1.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. Como estas grandes moléculas negativas não conseguem atravessar a membrana ($p_A = 0$), criam uma carga negativa fixa interna.</details>*
-
-#### ❓ Questão 36 (Nível: Pleno)
-**Enunciado:** Que fator anatómico permite a condução saltatória do impulso elétrico nos axónios, aumentando drasticamente a velocidade de transmissão de dados?
-- [ ] A) A densidade de junções gap musculares.
-- [ ] B) A presença da bainha de mielina com interrupções periódicas nos Nódulos de Ranvier.
-- [ ] C) O aumento do diâmetro dos receptores nicotínicos ganglionares.
-- [ ] D) A degradação contínua de moléculas de ATP.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A mielina atua como isolante elétrico, forçando o potencial de ação a saltar de um nódulo de Ranvier para o outro, poupando tempo e energia.</details>*
-
-#### ❓ Questão 37 (Nível: Pleno)
-**Enunciado:** Qual o comportamento da propriedade denominada "Condução Decremental" em potenciais graduados/locais?
-- [ ] A) O sinal elétrico ganha amplitude à medida que viaja pela membrana dendrítica.
-- [ ] B) A amplitude do sinal elétrico atenua-se e decai conforme se propaga ao longo da distância na membrana celular.
-- [ ] C) O sinal salta diretamente sobre os nódulos de Ranvier sem perder voltagem.
-- [ ] D) É um padrão exclusivo de fibras mielinizadas grossas do tipo motor.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. Os potenciais locais espalham-se passivamente e perdem força devido à resistência citoplasmática e vazamento iónico.</details>*
-
-#### ❓ Questão 38 (Nível: Pleno)
-**Enunciado:** Por que razão o potencial de ação obedece à lei do "Tudo ou Nada"?
-- [ ] A) Porque ele oscila de tamanho dependendo da força do pensamento voluntário.
-- [ ] B) Porque uma vez atingido o limiar de voltagem, os canais dependentes de voltagem abrem-se de forma concertada e fixa, gerando sempre um sinal de amplitude máxima padrão; se o limiar não for atingido, o sinal decai sem disparar.
-- [ ] C) Porque ele depende da entrada de cloro e potássio em proporções perfeitamente idênticas.
-- [ ] D) É uma regra restrita às sinapses elétricas de alta latência.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A abertura dos canais de sódio por feedback positivo garante que, após ultrapassado o limiar, o ciclo de despolarização ocorra em magnitude total predefinida.</details>*
-
-#### ❓ Questão 39 (Nível: Pleno)
-**Enunciado:** Onde se localiza a "Zona de Disparo" (Gatilho Core) do neurônio, caracterizada por uma altíssima densidade de canais de sódio dependentes de voltagem?
-- [ ] A) No terminal axónico pré-sináptico terminal.
-- [ ] B) Nas pontas distais das dendrites recetoras.
-- [ ] C) No Cone Axonal (ou Montículo Axonal).
-- [ ] D) No interior das vesículas sinápticas densas.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. O cone axonal centraliza e soma as variações de voltagem locais; se a somação atingir $-55\text{ mV}$ nessa zona de gatilho, inicia-se o potencial de ação.</details>*
-
-#### ❓ Questão 40 (Nível: Pleno)
-**Enunciado:** Se a permeabilidade relativa da membrana celular ao Sódio ($p_{Na}$) passasse subitamente de 0,04 para 1,00 em repouso, o que aconteceria com a voltagem da membrana ($\Delta V$)?
-- [ ] A) Deslocar-se-ia drasticamente em direção a valores hiperpolarizados próximos a $-85\text{ mV}$.
-- [ ] B) Estabilizar-se-ia em $-60\text{ mV}$ acompanhando o Cloro.
-- [ ] C) Sofreria uma despolarização maciça deslocando-se em direção ao potencial de equilíbrio do sódio ($+53\text{ mV}$).
-- [ ] D) Cessaria toda a atividade iónica devido ao bloqueio da Proteína G.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. O potencial de membrana é ditado pelo íon mais permeável. Se a permeabilidade ao sódio se equiparasse à do potássio, a voltagem saltaria para valores altamente positivos.</details>*
-
-#### ❓ Questão 41 (Nível: Senior)
-**Enunciado:** Um paciente ingere acidentalmente Tetrodotoxina (TTX), uma toxina que bloqueia especificamente os **canais de Sódio dependentes de voltagem**. Qual o impacto direto desta substância na eletrofisiologia dos seus neurónios?
-- [ ] A) Os neurónios passarão a disparar potenciais de ação contínuos sem parar.
-- [ ] B) O potencial de repouso mudará para $+53\text{ mV}$ instantaneamente.
-- [ ] C) Bloqueio total da capacidade de gerar a fase de despolarização do potencial de ação, impedindo a condução de impulsos elétricos pelo sistema nervoso.
-- [ ] D) Ativação em broadcast de todos os receptores adrenérgicos beta-2.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. Sem a abertura dos canais de sódio dependentes de voltagem, o feedback positivo é quebrado e o neurônio torna-se eletricamente inexcitável.</details>*
-
-#### ❓ Questão 42 (Nível: Senior)
-**Enunciado:** Uma condição clínica denominada **Hipercalemia Extracelular Severa** eleva a concentração de Potássio no LEC de 4,4 mM para 12 mM. De acordo com a biofísica de Nernst e Goldman, qual o efeito inicial no potencial de repouso da membrana neuronal?
-- [ ] A) O potencial de equilíbrio do potássio torna-se mais negativo, hiperpolarizando a célula para $-100\text{ mV}$.
-- [ ] B) O gradiente de concentração do potássio diminui, reduzindo a força difusional de saída do $K^+$, o que despolariza cronicamente a membrana, aproximando-a do limiar e tornando-a inicialmente hiperexcitável.
-- [ ] C) Os canais de cloro fecham-se por alinhamento magnético iónico.
-- [ ] D) A velocidade da condução saltatória dobra nos nós de Ranvier.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. Ao aumentar o $K^+$ no LEC, reduz-se o gradiente químico que forçava a saída de potássio pelas vias de vazamento, retendo cargas positivas dentro da célula e gerando despolarização basal.</details>*
-
-#### ❓ Questão 43 (Nível: Senior)
-**Enunciado:** Um fármaco experimental impede a comporta de inativação dos canais de sódio dependentes de voltagem de se fechar durante o pico do potencial de ação, mas mantém a comporta de ativação operando normalmente. Que alteração gráfica e funcional será observada no traçado do impulso bioelétrico?
-- [ ] A) A despolarização nunca ocorrerá, mantendo a linha basal reta em $-75\text{ mV}$.
-- [ ] B) Uma falha na repolarização rápida da membrana, prolongando massivamente a duração do potencial de ação num estado despolarizado em platô.
-- [ ] C) Uma hiperpolarização instantânea para $-85\text{ mV}$.
-- [ ] D) O desaparecimento completo do período refratário absoluto.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. Se a comporta de inativação falhar em fechar no ápice, o influxo de sódio continuará a competir com o efluxo de potássio, estendendo a fase despolarizada e impedindo o retorno rápido ao repouso.</details>*
-
-#### ❓ Questão 44 (Nível: Senior)
-**Enunciado:** O veneno de uma espécie de escorpião retarda a abertura dos **canais de Potássio dependentes de voltagem** acionados após o overshoot. Como esta alteração molecular impacta a curva do potencial de ação neuronal?
-- [ ] A) Aumenta a velocidade da fase de despolarização inicial.
-- [ ] B) Prolonga consideravelmente o tempo necessário para a execução da fase de repolarização, alargando a duração total do surto elétrico.
-- [ ] C) Força o potencial de repouso a estabilizar-se em $-95\text{ mV}$.
-- [ ] D) Inibe a ligação da acetilcolina nos receptores nicotínicos ganglionares.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. Os canais de potássio dependentes de voltagem medeiam a saída rápida de cargas positivas para restaurar o repouso. Se a sua abertura for atrasada, a taxa de repolarização diminui significativamente.</details>*
-
-#### ❓ Questão 45 (Nível: Senior)
-**Enunciado:** Se removermos experimentalmente todo o Cálcio ($Ca^{2+}$) livre do fluido extracelular (LEC) que banha um axônio, o potencial de ação continuará a propagar-se pelo comprimento do axônio? E qual será o efeito no terminal sináptico?
-- [ ] A) Não, o potencial de ação cessa imediatamente no meio do axônio pois o sódio depende do cálcio para entrar.
-- [ ] B) Sim, o potencial de ação propaga-se pelo axônio (pois depende de $Na^+$ e $K^+$), mas ao chegar ao terminal sináptico não haverá exocitose de neurotransmissores devido à ausência de influxo de $Ca^{2+}$.
-- [ ] C) Sim, e a liberação de neurotransmissores aumentará em 400% via junções comunicantes.
-- [ ] D) Não, e os receptores muscarínicos sofrerão autodestruição.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O cálcio extracelular não participa na geração ou propagação do potencial de ação axónico básico, mas é o gatilho molecular obrigatório para a fusão vesicular no terminal sináptico.</details>*
 
 ---
 
 ## 🔌 Bloco 03: Arquitetura Sináptica, Transmissão e Integração de Sinais (Questões 46 a 70)
 
 ### 🪐 Diretriz de Validação para a IA:
-Este bloco valida as diferenças entre sinapses elétricas e químicas, o pipeline molecular de exocitose e os processos matemáticos de somação baseados na Aula 7 e Guia de Estudo.
+Este bloco valida as diferenças entre sinapses elétricas e químicas, os mecanismos de exocitose sináptica e os processos fisiológicos de somação neuronal baseados na Aula 7 e Guia de Estudo.
 
 #### ❓ Questão 46 (Nível: Junior)
 **Enunciado:** Como é classificada a sinapse que utiliza junções comunicantes (gap junctions) para permitir a passagem direta de íons entre os citoplasmas de células adjacentes?
@@ -392,15 +167,17 @@ Este bloco valida as diferenças entre sinapses elétricas e químicas, o pipeli
 - [ ] B) Sinapse Elétrica
 - [ ] C) Junção Neuromuscular Adrenérgica
 - [ ] D) Ponte de Mensageria Lenta
+
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. As sinapses elétricas realizam acoplamento iónico direto através de proteínas conexinas dispostas em conexons.</details>*
 
 #### ❓ Questão 47 (Nível: Junior)
 **Enunciado:** Qual das seguintes características é uma desvantagem regulatória da sinapse elétrica quando comparada à sinapse química?
-- [ ] A) Apresenta um overhead de latência elevado devido à fenda.
-- [ ] B) É unidirecional estrita e de difícil acoplamento metabólico.
-- [ ] C) Possui pouca ou nenhuma plasticidade e flexibilidade de modulação/amplificação de sinal.
-- [ ] D) Exige a quebra de 5 moléculas de ATP por íon transmitido.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. Por serem pontes elétricas mecânicas simples, as sinapses elétricas não se prestam a modulações complexas de ganho ou inversão de sinal (excitação/inibição).</details>*
+- [ ] A) Apresenta elevada latência devido à fenda sináptica.
+- [ ] B) É unidirecional estrita e de difícil integração metabólica.
+- [ ] C) Possui pouca ou nenhuma plasticidade e flexibilidade de modulação de sinal.
+- [ ] D) Exige elevado consumo de ATP por íon transmitido.
+
+*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. Por serem pontes elétricas simples, as sinapses elétricas apresentam baixa capacidade de modulação fisiológica complexa.</details>*
 
 #### ❓ Questão 48 (Nível: Junior)
 **Enunciado:** Na sinapse química, que estrutura física separa fisicamente as membranas celulares das células pré e pós-sinápticas?
@@ -408,6 +185,7 @@ Este bloco valida as diferenças entre sinapses elétricas e químicas, o pipeli
 - [ ] B) A Bainha de Mielina
 - [ ] C) A Fenda Sináptica
 - [ ] D) O Montículo Axonal
+
 *<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>C</b>. A fenda sináptica é o espaço preenchido por matriz extracelular onde os neurotransmissores se difundem.</details>*
 
 #### ❓ Questão 49 (Nível: Junior)
@@ -416,7 +194,8 @@ Este bloco valida as diferenças entre sinapses elétricas e químicas, o pipeli
 - [ ] B) Canal de Cálcio ($Ca^{2+}$) dependente de voltagem
 - [ ] C) Canal de Cloro ativado por ligante
 - [ ] D) Receptor Muscarínico M2
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A abertura dos canais de cálcio por voltagem permite a entrada de $Ca^{2+}$, que atua como sinalizador químico intracelular para a fusão vesicular.</details>*
+
+*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. A abertura dos canais de cálcio por voltagem permite a entrada de $Ca^{2+}$, que atua como sinalizador intracelular para a fusão vesicular.</details>*
 
 #### ❓ Questão 50 (Nível: Junior)
 **Enunciado:** O que significa o termo "Atraso Sináptico" (ou Latência Sináptica) típico das sinapses químicas?
@@ -424,7 +203,8 @@ Este bloco valida as diferenças entre sinapses elétricas e químicas, o pipeli
 - [ ] B) O intervalo temporal gasto para os processos de influxo de cálcio, fusão vesicular, difusão do neurotransmissor pela fenda e ligação ao receptor.
 - [ ] C) A velocidade de degradação da noradrenalina pela enzima MAO.
 - [ ] D) O período em que o neurônio permanece em estado refratário relativo.
-*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O atraso sináptico ($\approx 0,5$ a $2\text{ ms}$) deve-se à natureza química multietapa da transmissão de dados na fenda.</details>*
+
+*<details><summary><b>🔑 Ver Gabarito</b></summary>Alternativa Correta: <b>B</b>. O atraso sináptico ($\approx 0,5$ a $2\text{ ms}$) deve-se à natureza química multietapa da transmissão sináptica.</details>*
 
 #### ❓ Questão 51 (Nível: Junior)
 **Enunciado:** Como é denominado o sinal elétrico local gerado na membrana pós-sináptica que aproxima a voltagem celular do limiar de disparo (causando uma despolarização local)?
